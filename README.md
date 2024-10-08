@@ -45,7 +45,3 @@ Languages, tools and OS:
 <img src="https://skillicons.dev/icons?i=linux,kali&theme=dark" />
   </a>
 </p>
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VSawyerHub&theme=transparent&bg_color=000&border_color=14B2F0&show_icons=true&icon_color=30A3DC&title_color=E914F0&text_color=14B2F0)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VSawyerHub&layout=compact&bg_color=000&border_color=14B2F0&title_color=E914F0&text_color=14B2F0)
