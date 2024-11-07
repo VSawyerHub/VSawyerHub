@@ -6,20 +6,13 @@ I can fix that
 </p>
 
 <p align="center">
-:godmode: I’m programming games :godmode:
-</p>
-<p align="center">
-:shipit: Learning Web coding, Game developing and Design :octocat:
-</p>
-
-<p align="center">
 Profile from study platforms:
 </p>
 
 <div  align="center">
 
 [![DIO](https://img.shields.io/badge/DIO-000?style=for-the-badge)](https://web.dio.me/users/vitosawyer)
-[![Alura](https://img.shields.io/badge/Alura-000?style=for-the-badge)](https://cursos.alura.com.br/user/vicsawyer)
+[![Alura](https://img.shields.io/badge/Alura-000?style=for-the-badge)](https://cursos.alura.com.br/emprega-one/profile/vicsawyer)
 </div>
 
 <p align="center">
@@ -35,7 +28,8 @@ Social Media
 </div>
 
 <p align="center">
-Languages, tools and OS:
+Languages, tools and OS that i have been using:
+(Still learning)
 </p>
 
 <p align="center">
