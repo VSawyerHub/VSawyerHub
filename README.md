@@ -1,23 +1,7 @@
-<p align="center">
-I can fix that
-</p>
-<p align="center">
-<img src="https://github.com/Vaikonic/Vaikonic/blob/main/Bocchi%20Runner%202074.gif" width="550" height="260" />
-</p>
-
-<p align="center">
-Profile from study platforms:
-</p>
-
 <div  align="center">
 
-[![DIO](https://img.shields.io/badge/DIO-000?style=for-the-badge)](https://web.dio.me/users/vitosawyer)
-[![Alura](https://img.shields.io/badge/Alura-000?style=for-the-badge)](https://cursos.alura.com.br/emprega-one/profile/vicsawyer)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=4885&pause=960&color=EEEEEE&center=true&width=435&lines=Hallo!+Bem+vindo+;You+can+call+me+Vic;I'm+a+developer)](https://git.io/typing-svg)
 </div>
-
-<p align="center">
-Social Media
-</p>
 
 <div  align="center">
 
@@ -27,15 +11,5 @@ Social Media
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/tvsawyer)
 </div>
 
-<p align="center">
-Languages, tools and OS that i have been using:
-(Still learning)
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java,js,spring,html,css,lua,c,cs,cpp" />
-<img src="https://skillicons.dev/icons?i=figma,ps,aws,visualstudio,unreal,blender,eclipse,idea,git,github&theme=dark" />
-<img src="https://skillicons.dev/icons?i=linux,kali&theme=dark" />
-  </a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=VSawyerHub&theme=neon&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VSawyerHub&show_icons=true&theme=neon)
