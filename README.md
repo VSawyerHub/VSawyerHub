@@ -11,5 +11,21 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/tvsawyer)
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=VSawyerHub&theme=neon&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VSawyerHub&show_icons=true&theme=neon)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VSawyerHub&show_icons=true&theme=neon&card_width=320" />
+</a>
+
+
+<div  align="center">
+<a href="https://github.com/VSawyerHub/Nextage-Fullstack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VSawyerHub&repo=Nextage-Fullstack&cache_seconds=86400&theme=neon" />
+</a>
+</div>
+
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSawyerHub&theme=neon&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
+<img src="https://github.com/VSawyerHub/VSawyerHub/blob/main/shake-bocchi-the-rock.gif" />
