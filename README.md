@@ -44,7 +44,7 @@
 <div  align="center">
   
 <a href="https://github.com/VSawyerHub/Nextage-Fullstack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VSawyerHub&repo=Nextage-Fullstack&cache_seconds=86400&theme=neon" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=VSawyerHub&repo=Nextage-Fullstack&cache_seconds=86400&theme=neon" />
 </a>
 </div>
 
