@@ -6,15 +6,6 @@
 
 <div  align="center">
 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/VSawyerPins)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_vsawyer_)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Next_Station)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/tvsawyer)
-[![Alura](https://img.shields.io/badge/Alura-164486?style=for-the-badge&logoColor=white)](https://cursos.alura.com.br/emprega-one/profile/vicsawyer)
-</div>
-
-<div  align="center">
-
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -22,11 +13,20 @@
 </div>
 
 <div  align="center">
+
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/VSawyerPins)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_vsawyer_)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Next_Station)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/vsawyerr)
+[![Alura](https://img.shields.io/badge/Alura-164486?style=for-the-badge&logoColor=white)](https://cursos.alura.com.br/emprega-one/profile/vicsawyer)
+</div>
+
+<div  align="center">
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VSawyerHub&theme=neon&layout=compact&langs_count=8&card_width=320" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=VSawyerHub&show_icons=true&theme=neon&card_width=320" />
+  <img height=190 align="center" src="https://github-stats-extended.vercel.app/api?username=VSawyerHub&show_icons=true&theme=neon&card_width=400" />
 </a>
 </div>
 
